@@ -1,0 +1,19 @@
+body{
+    background-image: url(./img/b.jpg);
+}
+
+#cabecera{
+    background-image: url(./img/c.jpg);
+}
+
+#indice{
+    background-image: url(./img/d.jpg);
+}
+
+#contenido{
+    background-image: url(./img/e.jpg);
+}
+
+#piedepagina{
+    background-image: url(./img/f.jpg);
+}
